@@ -4,3 +4,5 @@ More random text.
 Today is probably good weather.
 
 Added more text for testing purposes.
+
+This line was added by Edvardas.
